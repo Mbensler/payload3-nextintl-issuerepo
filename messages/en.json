@@ -1,0 +1,309 @@
+{
+  "HomePage": {
+    "title": "Hej world!",
+    "about": "Go to the about page",
+    "SEO": {
+      "title": "Christensen Kjærulff",
+      "description": "Christensen Kjærulff is a Danish accounting firm that offers a wide range of services to businesses and individuals. We provide advice on accounting, auditing, tax, and financial matters."
+    }
+  },
+  "Header": {
+    "RevisionOgRegnskab": {
+      "title": "Revision & Regnskab",
+      "href": "/pricing",
+      "description": "Test",
+      "dropdownMenu": [
+        {
+          "href": "/pricing",
+          "label": "Revision & Regnskab",
+          "description": "Vores arbejde tilfører tillid og kvalitet til din virksomhed."
+        },
+        {
+          "href": "#",
+          "label": "SKAT & Moms",
+          "description": "Vi hjælper med at holde overblik i dine skattemæssige forhold."
+        },
+        {
+          "href": "#",
+          "label": "Erhvervsservice",
+          "description": "Overlad bogholderiet til vores erhvervsservice."
+        },
+        {
+          "href": "#",
+          "label": "Digitalisering",
+          "description": "Revisorer med stærke kompetencer inden for digitalisering."
+        }
+      ]
+    },
+    "Raadgivning": {
+      "title": "Rådgivning",
+      "href": "/pricing",
+      "description": "Test",
+      "dropdownMenu": [
+        {
+          "href": "/pricing",
+          "label": "Rådgivning",
+          "description": "Har du brug for økonomisk rådgivning?"
+        },
+        {
+          "href": "#",
+          "label": "Andelsbolig- og ejerforeninger",
+          "description": "Eksperter i andelsboliger- og ejerforeninger."
+        },
+        {
+          "href": "#",
+          "label": "Due Diligence",
+          "description": "Vi hjælper dig fra de indledende overvejelser til den endelige handel."
+        },
+        {
+          "href": "#",
+          "label": "Fast ejendom",
+          "description": "Vi rådgiver helt ned til mindste detalje i alle typer af fast ejendom."
+        },
+        {
+          "href": "#",
+          "label": "Finansiel rådgivning",
+          "description": "Vi rådgiver bl.a. om fremskaffelse og placering af likviditet."
+        },
+        {
+          "href": "#",
+          "label": "Generationsskifte",
+          "description": "Vi består og rådgiver i planlægningen og gennemførslen af generationsskifte."
+        },
+        {
+          "href": "#",
+          "label": "Internationale forhold",
+          "description": "Vi kan rådgive dig om, hvordan du skal forholde dig til internationale forhold."
+        },
+        {
+          "href": "#",
+          "label": "Iværksætteri og opstart af virksomhed",
+          "description": "Vi kan sikre dig en god start på din rejse som ejerleder."
+        },
+        {
+          "href": "#",
+          "label": "Rekonstruktion, insolvens og konkurs",
+          "description": "Vi assisterer dig i rekonstruktion, insolvens og konkursrelaterede sager."
+        }
+      ]
+    },
+    "ESG": {
+      "title": "ESG",
+      "href": "/esg",
+      "description": "Test",
+      "dropdownMenu": [
+        {
+          "href": "/esg",
+          "label": "ESG-rapportering",
+          "description": "Vi assisterer dig i rekonstruktion, insolvens og konkursrelaterede sager."
+        },
+        {
+          "href": "/esg/hvad-er-esg",
+          "label": "Hvad er ESG?",
+          "description": "Vi assisterer dig i rekonstruktion, insolvens og konkursrelaterede sager."
+        }
+      ]
+    },
+    "Karriere": {
+      "title": "Karriere",
+      "href": "/pricing",
+      "description": "Test",
+      "dropdownMenu": [
+        {
+          "href": "#",
+          "label": "Karriere",
+          "description": "Udforsk vores karrieresite, og lær alt om en karriere i revisionsbranchen."
+        },
+        {
+          "href": "#",
+          "label": "Karrieremuligheder",
+          "description": "En arbejdsplads med fokus på udvikling,trivsel, og personligt engagement."
+        },
+        {
+          "href": "#",
+          "label": "Sådan bliver du revisor",
+          "description": "Drømmer du om at gøre karriere inden for revision, regnskab og rådgivning?"
+        },
+        {
+          "href": "#",
+          "label": "Mød en medarbejder",
+          "description": "Mød vores medarbejdere, og læs hvad der gør CK til en god arbejdsplads."
+        },
+        {
+          "href": "#",
+          "label": "Statsautoriseret revisor",
+          "description": "Læs om hvordan man bliver statsautoriseret revisor hos os."
+        },
+        {
+          "href": "#",
+          "label": "Book et kaffemøde",
+          "description": "Book et uformelt og fortroligt kaffemøde på Teams med vores HR afdeling."
+        },
+        {
+          "href": "#",
+          "label": "Revisortrainee",
+          "description": "Kickstart din karriere hos os, og skab muligheder for resten af livet."
+        },
+        {
+          "href": "#",
+          "label": "Ledige stillinger",
+          "description": "Se vores ledige stillinger."
+        }
+      ]
+    },
+    "Partnere": {
+      "title": "Partnere",
+      "href": "#",
+      "description": "",
+      "dropdownMenu": ""
+    },
+    "Nyheder": {
+      "title": "Nyheder",
+      "href": "#",
+      "description": "",
+      "dropdownMenu": ""
+    },
+    "OmCK": {
+      "title": "Om CK",
+      "href": "#",
+      "description": "Statsautoriseret revisionsaktieselskab",
+      "dropdownMenu": [
+        {
+          "href": "#",
+          "label": "Om os",
+          "description": "Lær mere om vores virksomhed, vores mission og vores medarbejdere."
+        },
+        {
+          "href": "#",
+          "label": "Netværk",
+          "description": "Læs mere om vores samarbejdspartnere og netværk."
+        },
+        {
+          "href": "#",
+          "label": "Kundeudtalelser",
+          "description": "Læs, hvad vores kunder siger om os og vores services."
+        },
+        {
+          "href": "#",
+          "label": "Kontakt",
+          "description": "Har du brug for at komme i kontakt med os? Vi er her for at hjælpe."
+        }
+      ]
+    }
+  },
+  "Footer": {
+    "Raadgivning": {
+      "key": "0",
+      "title": "Rådgivning",
+      "links": [
+        { "href": "/pricing", "label": "Rådgivning" },
+        { "href": "#", "label": "Andelsbolig- og ejerforeninger" },
+        { "href": "#", "label": "Due Diligence" },
+        { "href": "#", "label": "Fast ejendom" },
+        { "href": "#", "label": "Finansiel rådgivning" },
+        { "href": "#", "label": "Generationsskifte" },
+        { "href": "#", "label": "Internationale forhold" },
+        { "href": "#", "label": "Iværksætteri og opstart af virksomhed" },
+        { "href": "#", "label": "Rekonstruktion, insolvens og konkurs" }
+      ]
+    },
+    "RevisionOgRegnskab": {
+      "key": "1",
+      "title": "Revision & regnskab",
+      "links": [
+        { "href": "/pricing", "label": "Revision & regnskab" },
+        { "href": "#", "label": "Skat & moms" },
+        { "href": "#", "label": "Erhvervsservice" },
+        { "href": "#", "label": "Digitalisering" }
+      ]
+    },
+    "ESG": {
+      "key": "2",
+      "title": "ESG",
+      "links": [
+        { "href": "/pricing", "label": "ESG-rapportering" },
+        { "href": "#", "label": "Hvad er ESG?" }
+      ]
+    },
+    "Karriere": {
+      "key": "3",
+      "title": "Karriere",
+      "links": [
+        { "href": "/pricing", "label": "Mød en medarbejder" },
+        { "href": "#", "label": "Karrieremuligheder" },
+        { "href": "#", "label": "Sådan bliver du revisor" },
+        { "href": "#", "label": "Revisortrainee" },
+        { "href": "#", "label": "Statsautoriseret revisor" },
+        { "href": "#", "label": "Ledige stillinger" },
+        { "href": "#", "label": "Book et kaffemøde" }
+      ]
+    },
+    "ChristensenKjaerulff": {
+      "key": "4",
+      "title": "Christensen Kjærulff",
+      "links": [
+        { "href": "#", "label": "Partnere" },
+        { "href": "#", "label": "Nyheder" },
+        { "href": "#", "label": "Om os" },
+        { "href": "#", "label": "Netværk" },
+        { "href": "#", "label": "Kundeudtalelser" },
+        { "href": "#", "label": "Kontakt" }
+      ]
+    },
+    "Lovmaessigt": {
+      "key": "5",
+      "title": "Legal",
+      "links": [
+        { "href": "#", "label": "Databehandleraftale" },
+        { "href": "#", "label": "Databeskyttelsespolitik" },
+        { "href": "#", "label": "Forretningsbetingelser" },
+        { "href": "#", "label": "Ejerfortegnelse" },
+        { "external": true, "href": "#", "label": "Data Trust" }
+      ]
+    }
+  },
+  "Error": {
+    "description": "<p>We've unfortunately encountered an error.</p><p>You can try to <retry>reload the page</retry> you were visiting.</p>",
+    "title": "Something went wrong!"
+  },
+  "IndexPage": {
+    "description": "This is a basic example that demonstrates the usage of <code>next-intl</code> with the Next.js App Router. Try changing the locale in the top right corner and see how the content changes.",
+    "title": "next-intl example"
+  },
+  "LocaleLayout": {
+    "title": "next-intl example"
+  },
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, da {🇩a Dansk} en {🇺🇸 English} other {Unknown}}"
+  },
+  "Navigation": {
+    "home": "Home",
+    "pathnames": "Pathnames"
+  },
+  "NotFoundPage": {
+    "description": "Please double-check the browser address bar or use the navigation to go to a known page.",
+    "title": "Page not found"
+  },
+  "PageLayout": {
+    "links": {
+      "docs": {
+        "description": "Learn more about next-intl in the official docs.",
+        "href": "https://next-intl-docs.vercel.app/",
+        "title": "Docs"
+      },
+      "source": {
+        "description": "Browse the source code of this example on GitHub.",
+        "href": "https://github.com/amannn/next-intl/tree/main/examples/example-app-router",
+        "title": "Source code"
+      }
+    }
+  },
+  "PathnamesPage": {
+    "description": "<p>The pathnames are internationalized too.</p><p>If you're using the default language English, you'll see <code>/en/pathnames</code> in the browser address bar on this page.</p><p>If you change the locale to German, the URL is localized accordingly (<code>/de/pfadnamen</code>).</p>",
+    "title": "Pathnames"
+  },
+  "ESG": {
+    "title": "ESG"
+  }
+}
